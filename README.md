@@ -40,7 +40,9 @@ free
 - [AI Pulse](https://www.aipulse.fyi) - Your trusted source for in-depth reviews of the latest AI tools and technologies.
 free
 - [AI Scout](https://aiscout.net/) - AI Tools Directory
+50
 - [AI Tools Arena](https://aitoolsarena.com/) - Your Ultimate Resource for AI Tools and Insights
+
 - [AI Tools Directory](https://aitoolsdirectory.com/) - Curated list of AI tools
 - [AISuperSmart](https://www.aisupersmart.com/ai-tools-directory/) - 1500+ Ai Tools Which Update's Daily And Provide Ai News to World
 - [AI-Tools Directory](https://ai-tools.directory) - A directory of AI tools curated by AI itself
